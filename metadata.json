@@ -1,0 +1,6 @@
+{
+  "name": "Yudha Kurasi Agent Metanarasi Generator",
+  "description": "AI-powered Social Media Comment & Engagement Copy Assistant with Indonesian Netizen Style",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
